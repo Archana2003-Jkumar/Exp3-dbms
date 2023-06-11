@@ -2,12 +2,12 @@
 ## AIM
 To create an SQL query to show the top n records of the table using Limit method.
 ## ALGORITHM
-1.Create an SQL table employees with 5 rows and 4 columns
-2.Insert sample data into the "employees" table
-3.Retrieve and display the employee details
-4.Add the LIMIT keyword followed by a number to the SELECT query. In this case, we limit the result to 3 rows
-5.Execute the SQL program
-6.View the output
+ 1.Create an SQL table employees with 5 rows and 4 columns
+ 2.Insert sample data into the "employees" table
+ 3.Retrieve and display the employee details
+ 4.Add the LIMIT keyword followed by a number to the SELECT query. In this case, we limit the result to 3 rows
+  5.Execute the SQL program
+  6.View the output
 ## PROGRAM
 ```
 -- Create the employee table
